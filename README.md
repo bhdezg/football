@@ -1,5 +1,4 @@
 # football
-This repository contains Python and SQL scripts designed for the automated processing and analysis of sports fixture data. The project includes a Python script for data extraction, transformation, and storage, as well as an SQL script for analyzing team performance metrics.
 
 ## Introduction
 This project automates the management of sports fixture data and provides analytical insights into team performance. The daily.py script handles the data pipeline for extracting and storing fixture data, while the CreateGoalsTeams.sql script analyzes this data to track team performance over recent games.
